@@ -14,7 +14,7 @@ This is the second lab of the ALSDD (Algorithms & Dynamic Data Structures) modul
 
 ---
 
-## ⚙ Lab Components
+##  Lab Components
 
 ### 1. Z Language Version
 
